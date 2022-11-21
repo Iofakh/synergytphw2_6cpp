@@ -168,7 +168,7 @@ main()
                                                 }
                                                 else
                                                 {
-                                                    printf("Error in day or month");
+                                                    printf("Error in day or month.\n");
                                                 }
                                             }
                                         }                                        
